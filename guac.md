@@ -4,4 +4,4 @@
 * lime
 * pepper
 ## Instructions
-mash it all together (with care!!!)
+mash it all together (with care!)
