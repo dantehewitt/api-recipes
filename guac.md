@@ -4,4 +4,5 @@
 * lime
 * pepper
 ## Instructions
-mash it all together (with care!)
+* put one avo in a bowl
+* mash it all together (with care!)
