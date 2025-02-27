@@ -1,6 +1,6 @@
 #Gauc
 ## Ingredients
 * avocado
-* lemon
+* lime
 * pepper
 ## Instructions
